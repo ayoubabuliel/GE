@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-26T01:39:38 IST" name="Command line suite" finished-at="2022-11-26T01:39:38 IST" duration-ms="41">
+    <groups>
+    </groups>
+    <test started-at="2022-11-26T01:39:38 IST" name="Command line test" finished-at="2022-11-26T01:39:38 IST" duration-ms="41">
+      <class name="TestUI">
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:TestUI@7494f96a]" started-at="2022-11-26T01:39:38 IST" name="cleanup" finished-at="2022-11-26T01:39:38 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- TestUI -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
